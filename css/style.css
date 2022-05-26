@@ -53,11 +53,12 @@ table {
 }
 
 header {
-  background-color: red;
+  display: flex;
+  padding: 10px;
+  justify-content: center;
 }
 header img {
-  display: flex;
-  justify-content: center;
+  width: 250px;
 }
 
 /*# sourceMappingURL=style.css.map */
