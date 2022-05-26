@@ -1,0 +1,23 @@
+{
+  "name": "p3_ohmyfood",
+  "version": "1.0.0",
+  "description": "My 3rd project for openclassrooms dev web path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch scss/index.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeLarchez/P3_OHMYFOOD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeLarchez/P3_OHMYFOOD/issues"
+  },
+  "homepage": "https://github.com/MaximeLarchez/P3_OHMYFOOD#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
