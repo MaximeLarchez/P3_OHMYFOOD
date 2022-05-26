@@ -1,8 +1,9 @@
 header{
-    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
     img{
-        display: flex;
-        justify-content: center;
+        width: 250px;
         
     }
 }
